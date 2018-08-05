@@ -1,5 +1,5 @@
 
-public class Account {
+public class Account implements BankAccountSpecification{
 
 	String proprietaire;
 	double solde;
